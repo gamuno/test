@@ -1,7 +1,5 @@
 {
   "graphs": {
-    "default": {
-      "entrypoint": "graph:graph"
-    }
+    "default": "graph:graph"
   }
 }
