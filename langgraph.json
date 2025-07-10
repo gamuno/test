@@ -1,2 +1,7 @@
-{ "message": "👋 LangGraph is working!" }
-
+{
+  "graphs": {
+    "default": {
+      "entrypoint": "graph:graph"   // <module_name>:<variable_name>
+    }
+  }
+}
